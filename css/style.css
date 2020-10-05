@@ -72,7 +72,7 @@ links in the navigation are in the hover or focus state.*/
 nav{
   background-color: #ddd;
   padding: 25px 0; 
-  text-align: left;
+  text-align: right;
 }
 
 footer{
