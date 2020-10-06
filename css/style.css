@@ -103,6 +103,7 @@ header{
   color: white;
   height: 400px;                /* Parallax effect */
   background-image: url('../images/header.jps');
+  background-repeat: no-repeat;
 
   /*Your Code Here*/
   /*Set background-image to header.jpg */
