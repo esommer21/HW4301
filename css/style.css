@@ -102,7 +102,7 @@ header{
   background-size: cover;       /* Parallax effect */
   color: white;
   height: 400px;                /* Parallax effect */
-  background-image: url('../images/header.jps');
+  background-image: url('../images/header.jpg');
   background-repeat: no-repeat;
 
   /*Your Code Here*/
