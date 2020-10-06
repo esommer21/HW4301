@@ -102,6 +102,7 @@ header{
   background-size: cover;       /* Parallax effect */
   color: white;
   height: 400px;                /* Parallax effect */
+  background-image: url('../images/header.jps');
 
   /*Your Code Here*/
   /*Set background-image to header.jpg */
@@ -163,6 +164,8 @@ header p{
 background-color: rgba(255, 255, 255, .8);
   border: 10px solid black;
   padding: 30px;
+  margin: auto;
+  vertical-align: middle;
   /*Your code here:*/
   
 
